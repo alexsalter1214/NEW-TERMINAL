@@ -1,0 +1,6 @@
+{
+  "name": "Coverage Credits - Humanity Shift Rewards",
+  "description": "Tiered credit calculation and tracking system based on hours worked, integrated with Humanity scheduling and payroll sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
